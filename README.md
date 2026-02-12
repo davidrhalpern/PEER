@@ -19,4 +19,4 @@ PEER is designed to support accountability without assigning blame: it helps org
 
 ## Constraints
 
-- Unclassified only — no classified content should ever be placed in this repository.
+- Unclassified only — no classified content should ever be placed in this repository..
