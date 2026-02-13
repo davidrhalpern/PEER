@@ -2,16 +2,16 @@
 # This file defines who is responsible for reviewing changes.
 
 # Default owner for everything
-* @YOUR_GITHUB_USERNAME
+* @davidrhalpern
 
 # Governance documentation
-/docs/governance/ @YOUR_GITHUB_USERNAME
+/docs/governance/ @davidrhalpern
 
 # Architecture documentation
-/docs/architecture/ @YOUR_GITHUB_USERNAME
+/docs/architecture/ @davidrhalpern
 
 # Product documentation
-/docs/product/ @YOUR_GITHUB_USERNAME
+/docs/product/ @davidrhalpern
 
 # Decision records
-/docs/decisions/ @YOUR_GITHUB_USERNAME
+/docs/decisions/ @davidrhalpern
