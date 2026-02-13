@@ -12,15 +12,14 @@ flowchart TB
     C1[Tag Obligations]
     C2[Adjudicate Kernels]
   end
-'''
-
+```
 ```mermaid
   subgraph Users[Assigned Role Holders]
     U1[Acknowledge Role]
     U2[Respond to Inquiries]
     U3[Provide Evidence / Status]
   end
-'''
+```
 
 ```mermaid
  subgraph Leadership[Leadership / Oversight]
@@ -43,4 +42,4 @@ flowchart LR
   Q --> E[Evidence or Status Provided]
   E --> S[Obligation Satisfied or Closed]
   S --> G[Included in Governance Reporting]
-'''
+```
