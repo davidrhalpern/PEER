@@ -1,3 +1,5 @@
+```mermaid
+
 flowchart LR
   A[External Documents<br/>Policy • Law • EO • Frameworks] --> B[PEER Repository]
   B --> C[Obligation Tagging<br/>(Corn Kernels)]
@@ -10,14 +12,18 @@ flowchart TB
     C1[Tag Obligations]
     C2[Adjudicate Kernels]
   end
+'''
 
+```mermaid
   subgraph Users[Assigned Role Holders]
     U1[Acknowledge Role]
     U2[Respond to Inquiries]
     U3[Provide Evidence / Status]
   end
+'''
 
-  subgraph Leadership[Leadership / Oversight]
+```mermaid
+ subgraph Leadership[Leadership / Oversight]
     L1[View Reports]
     L2[See Assignment Health]
   end
@@ -37,3 +43,4 @@ flowchart LR
   Q --> E[Evidence or Status Provided]
   E --> S[Obligation Satisfied or Closed]
   S --> G[Included in Governance Reporting]
+'''
