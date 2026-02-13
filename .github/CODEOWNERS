@@ -1,0 +1,17 @@
+# PEER CODEOWNERS
+# This file defines who is responsible for reviewing changes.
+
+# Default owner for everything
+* @davidrhalpern
+
+# Governance documentation
+/docs/governance/ @davidrhalpern
+
+# Architecture documentation
+/docs/architecture/ @davidrhalpern
+
+# Product documentation
+/docs/product/ @davidrhalpern
+
+# Decision records
+/docs/decisions/ @davidrhalpern
