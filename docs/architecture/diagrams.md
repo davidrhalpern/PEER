@@ -1,14 +1,12 @@
-# PEER Architecture Diagrams
-
-## System at a glance
 ```mermaid
 flowchart LR
-  A[External Documents<br/>Policy • Law • EO • Frameworks] --> B[PEER Repository]
-  B --> C[Obligation Tagging<br/>(Corn Kernels)]
-  C --> D[Role Assignment & Acknowledgment]
-  D --> E[Inbox & Messaging<br/>Clarifications • Evidence]
-  E --> F[Reporting & Governance Pulse<br/>Leadership View]
+  A["External Documents<br/>Policy / Law / EO / Frameworks"] --> B["PEER Repository"]
+  B --> C["Obligation Tagging<br/>(Corn Kernels)"]
+  C --> D["Role Assignment & Acknowledgment"]
+  D --> E["Inbox & Messaging<br/>Clarifications / Evidence"]
+  E --> F["Reporting & Governance Pulse<br/>Leadership View"]
 ```
+
 
 ## Trust and authority boundaries
 ```mermaid
