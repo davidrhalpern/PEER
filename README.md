@@ -1,3 +1,17 @@
+## Architecture & System Model
+
+PEER is intentionally technology-agnostic at this stage. The conceptual architecture,
+governance constraints, and system invariants are defined in the following anchor document:
+
+- **PEER System Model**  
+  `architecture/peer-system-model.md`  
+  _Authoritative conceptual model for PEER’s purpose, layers, invariants, and end-to-end flow._
+
+All architectural diagrams, ADRs, and future implementation discussions should be consistent
+with this model unless explicitly superseded by a recorded decision.
+
+
+
 # PEER — Policy Execution, Evidence, and Responsibility
 
 PEER is an unclassified program concept and software effort intended to turn finalized policy into practice by making roles, responsibilities, and obligations visible, traceable, and discussable after issuance.
