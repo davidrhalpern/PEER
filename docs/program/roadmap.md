@@ -54,7 +54,7 @@ PEER can be explained consistently, without contradiction, across documents and 
 
 ## Phase 2 — Program Shape, Boundaries, and Feasibility
 
-> Phase 2 work is guided by the assumptions outlined in
+> Phase 2 work is guided by the assumptions outlined in our
 > [Pilot Assumptions](docs/feasibility/pilot-assumptions.md).
 
 
